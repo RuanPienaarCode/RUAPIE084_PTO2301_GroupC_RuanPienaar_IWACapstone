@@ -1,0 +1,11 @@
+{
+  "folders": [
+	{
+		"path": ".."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "IWA19",
+    "liveServer.settings.port": 5501
+  }
+}
