@@ -1,5 +1,3 @@
-![image](https://github.com/RuanPienaarCode/RUAPIE084_PTO2301_GroupC_RuanPienaar_IWACapstone/assets/13726965/a256d7f5-d599-44d7-bb60-3fe0d9dcb928)# RUAPIE084_PTO2301_GroupC_RuanPienaar_IWACapstone
-
 IWA19 Capstone Project
 
 Presentation:
