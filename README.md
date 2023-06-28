@@ -1,6 +1,9 @@
-# RUAPIE084_PTO2301_GroupC_RuanPienaar_IWACapstone
+![image](https://github.com/RuanPienaarCode/RUAPIE084_PTO2301_GroupC_RuanPienaar_IWACapstone/assets/13726965/a256d7f5-d599-44d7-bb60-3fe0d9dcb928)# RUAPIE084_PTO2301_GroupC_RuanPienaar_IWACapstone
 
-IWA Capestone Project
+IWA19 Capstone Project
 
 Presentation:
-https://1drv.ms/p/s!AuN4_Og2MRW1lelq1aFKJNgLB5oMfg?e=FnjM1j&nav=eyJzSWQiOjMwNSwiY0lkIjozMTc3MTgwNzB9
+https://1drv.ms/p/s!AuN4_Og2MRW1le8m8JfPlZi7N_Gq0A?e=upXcV4
+
+Book Connect has entrusted me with the task of improving their existing JavaScript code. While the HTML and CSS components of the platform is design and built well, there are critical errors in the JavaScript code preventing proper functionality. As a JavaScript developer, my role involves conducting a comprehensive review of the codebase, addressing these issues, and offering recommendations to enhance performance, readability, and future maintainability. This project presents a valuable opportunity for me to showcase my skills, troubleshoot the codebase, and make a positive impact on the Book Connect platform. I will compile my findings and recommendations into this slideshow presentation, ensuring that all user stories are met and the platform is optimized for a seamless user experience.
+
